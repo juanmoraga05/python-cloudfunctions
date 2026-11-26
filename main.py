@@ -1,6 +1,6 @@
 from google.cloud import storage
 
-# Change for workflow
+# Change for workflow 2.0
 
 def process_file(event, context):
     """Triggered when a file is uploaded to Cloud Storage."""
